@@ -7,7 +7,7 @@
 
 `atarashichiaki@hotmail.com`
 
-开发开源地址:
+开发开源地址：  socket版shell端打卡服务器地址:
 
 `https://github.com/mikaneko/SEU_AUTO_REPORT_cloud-verison`
 

@@ -1,8 +1,14 @@
 # SEU_AUTO_REPORT_release
 ## Southeast University Auto Health Report
 
+### 东南大学健康打卡
+
 使用selenium webdriver尽可能还原真人的打卡操作
 `atarashiciaki@hotmail.com`
+
+开发开源地址：
+
+`https://github.com/mikaneko/SEU_AUTO_REPORT_cloud-verison`
 
 ### 使用方法详解
 1. 将zip格式压缩文件解压
@@ -17,9 +23,7 @@
 
 6. 再次运行seu_report_group_xxxxxxx.exe程序
 
-7. 记事本打开config/general.cfg，report_url 可填`https://newids.seu.edu.cn/authserver/login?service=http://ehall.seu.edu.cn/qljfwapp2/sys/lwReportEpidemicSeu/*default/index.do`
-
-  webdriver_addr 可填 `./tool/chromedriver.exe`
+7. 记事本打开config/general.cfg，report_url 可填`https://newids.seu.edu.cn/authserver/login?service=http://ehall.seu.edu.cn/qljfwapp2/sys/lwReportEpidemicSeu/*default/index.do`webdriver_addr 可填 `./tool/chromedriver.exe`
 
 8. 再次运行seu_report_group_xxxxxxx.exe程序，并关闭
 
@@ -31,7 +35,7 @@
 
 12. 不用脚本时候，记得把encdata目录删除干净
 
-13. 有未知问题，请提交bug，或提交至`atarashiciaki@hotmail.com`
+13. 有未知问题，先在log目录下查看错误内容，提交bug，或提交至`atarashiciaki@hotmail.com`
 
 ### 当前版本不足
 1. 用户数据加密

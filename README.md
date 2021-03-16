@@ -4,11 +4,16 @@
 ### 东南大学健康打卡
 
 使用selenium webdriver尽可能还原真人的打卡操作
+
 `atarashiciaki@hotmail.com`
 
-开发开源地址：
+开发开源地址:
 
 `https://github.com/mikaneko/SEU_AUTO_REPORT_cloud-verison`
+
+重要：需要安装chrome浏览器
+
+a开头的版本均为短期测试版，需要authencode。
 
 ### 使用方法详解
 1. 将zip格式压缩文件解压

@@ -5,7 +5,7 @@
 
 使用selenium webdriver尽可能还原真人的打卡操作
 
-`atarashiciaki@hotmail.com`
+`atarashichiaki@hotmail.com`
 
 开发开源地址:
 
@@ -40,7 +40,7 @@ a开头的版本均为短期测试版，需要authencode。
 
 12. 不用脚本时候，记得把encdata目录删除干净
 
-13. 有未知问题，先在log目录下查看错误内容，提交bug，或提交至`atarashiciaki@hotmail.com`
+13. 有未知问题，先在log目录下查看错误内容，提交bug，或提交至`atarashichiaki@hotmail.com`
 
 ### 当前版本不足
 1. 用户数据加密

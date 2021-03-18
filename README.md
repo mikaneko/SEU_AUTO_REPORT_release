@@ -18,6 +18,9 @@
 a开头的版本均为短期测试版，需要authencode。
 
 ### 使用方法详解
+
+（供a202104版本）
+
 1. 将zip格式压缩文件解压
 
 2. 运行seu_report_group_xxxxxxx.exe程序

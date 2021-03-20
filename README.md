@@ -3,7 +3,7 @@
 
 ### 东南大学健康打卡
 
-使用selenium webdriver尽可能还原真人的打卡操作
+使用selenium webdriver尽可能还原真人的打卡操作（request也太危险了吧）
 
 `atarashichiaki@hotmail.com`
 

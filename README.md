@@ -15,7 +15,12 @@
 
 
 
-- 重要：需要安装chrome浏览器
+- 重要：需要安装chrome浏览器，内置的chromedriver版本为89，如果你的chrome浏览器版本过高，可以在如下地址下载相应版本的chromedriver，覆盖`tool/chromedriver.exe`，或者修改`config/general.cfg`中的webdriver目录
+
+  `http://npm.taobao.org/mirrors/chromedriver/`
+
+  `http://chromedriver.storage.googleapis.com/`
+
 - 声明：find elements 部分采自 StephenHoo
 
 

@@ -15,7 +15,7 @@
 
 
 
-- 重要：需要安装chrome浏览器，内置的chromedriver版本为89，如果你的chrome浏览器版本过高，可以在如下地址下载相应版本的chromedriver，覆盖`tool/chromedriver.exe`，或者修改`config/general.cfg`中的webdriver目录
+- 重要：需要安装chrome浏览器，`a202104版本及旧版本`内置的chromedriver版本为89，如果你的chrome浏览器版本过高，可以在如下地址下载相应版本的chromedriver，覆盖`tool/chromedriver.exe`，或者修改`config/general.cfg`中的webdriver目录
 
   `http://npm.taobao.org/mirrors/chromedriver/`
 
@@ -61,6 +61,11 @@
 11. 有未知问题，<u>先在log目录下查看错误内容，根据提示解决</u>，或提交问题至`atarashichiaki@hotmail.com`
 
 ### 版本更新内容
+#### a202105
+1. 打卡错误或表单必填项不全导致的错误，会以邮件形式通知。
+2. UI进行了小更新。
+3. 更新chromedriver版本至91版。
+
 #### a202104_r
 1. 优化所有功能，模块化所有功能。
 

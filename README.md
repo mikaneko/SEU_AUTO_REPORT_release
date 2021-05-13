@@ -66,7 +66,7 @@
 
 2. 由于计划中止，预计六月份的GUI版本也中止。
 
-   ![shot](C:\Users\chiaki\Desktop\shot.jpg)
+   ![shot](https://github.com/mikaneko/SEU_AUTO_REPORT_release/blob/main/readmepic/shot.jpg)
 
 
 #### a202105
